@@ -1,0 +1,26 @@
+{
+    "name": "ketanrathod/welcome",
+    "description": "A simple welcome page..",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ketanbrathod9999",
+            "email": "67999450+ketanbrathod9999@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KBR\\Welcome\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "KBR\\Welcome\\WelcomeServiceProvider"
+            ]
+        }
+    },
+}
