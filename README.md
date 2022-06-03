@@ -16,9 +16,8 @@ composer require ketanrathod/welcome
 
 ### Check with below url:
 
-```url
+```bash
 http://{Your website url}/pkg-welcome
-
-```url
+```bash
 
 ## Enjoy !!!
